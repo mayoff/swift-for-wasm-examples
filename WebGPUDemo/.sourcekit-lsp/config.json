@@ -1,5 +1,5 @@
 {
     "swiftPM": {
-        "swiftSDK": "swift-DEVELOPMENT-SNAPSHOT-2025-08-14-a_wasm-embedded"
+        "swiftSDK": "swift-6.4.1-RELEASE_wasm"
     }
 }
