@@ -11,6 +11,8 @@
 //===----------------------------------------------------------------------===//
 
 import DOM
+import JavaScriptKit
+import WebAPIBase
 import WebGPU
 
 public struct Drawable {
